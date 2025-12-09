@@ -12,6 +12,7 @@ skype.com
 cdn.office.net
 teams.cloud.microsoft
 office.net
+cloud.microsoft
 
 # Outlook Mobile & Infrastructure
 acompli.net
