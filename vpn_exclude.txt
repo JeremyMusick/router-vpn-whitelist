@@ -15,3 +15,48 @@ cdn.office.net
 geforcenow.com
 nvidia.com
 nvidiagrid.net
+
+# --- Streaming Services ---
+
+# Netflix
+netflix.com
+nflxvideo.net
+nflxext.com
+nflxso.net
+nflximg.net
+
+# Disney+
+disneyplus.com
+disney-plus.net
+disneystreaming.com
+dssott.com
+bamgrid.com
+
+# Hulu
+hulu.com
+hulustream.com
+huluim.com
+
+# Amazon Prime Video
+primevideo.com
+amazonvideo.com
+pv-cdn.net
+aiv-cdn.net
+
+# HBO / Max
+max.com
+hbomax.com
+hbo.com
+cinemax.com
+
+# Peacock
+peacocktv.com
+
+# Paramount+
+paramountplus.com
+cbsaavideo.com
+
+# YouTube (Optional - Saves bandwidth)
+youtube.com
+googlevideo.com
+ytimg.com
