@@ -1,0 +1,17 @@
+# Microsoft Identity & Office 365
+microsoft.com
+microsoftonline.com
+office.com
+office365.com
+live.com
+outlook.com
+sharepoint.com
+teams.microsoft.com
+lync.com
+skype.com
+cdn.office.net
+
+# GeForce Now & Nvidia
+geforcenow.com
+nvidia.com
+nvidiagrid.net
