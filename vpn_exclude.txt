@@ -10,6 +10,16 @@ teams.microsoft.com
 lync.com
 skype.com
 cdn.office.net
+teams.cloud.microsoft
+office.net
+
+# Outlook Mobile & Infrastructure
+acompli.net
+outlookmobile.com
+msn.com
+bing.com
+windows-ppe.net
+getmicrosoftkey.com
 
 # GeForce Now & Nvidia
 geforcenow.com
