@@ -1,4 +1,4 @@
-# Microsoft Identity & Office 365
+# --- Microsoft 365 & Identity ---
 microsoft.com
 microsoftonline.com
 office.com
@@ -6,15 +6,12 @@ office365.com
 live.com
 outlook.com
 sharepoint.com
-teams.microsoft.com
+cloud.microsoft
 lync.com
 skype.com
-cdn.office.net
-teams.cloud.microsoft
 office.net
-cloud.microsoft
 
-# Outlook Mobile & Infrastructure
+# --- Outlook Mobile & Infrastructure ---
 acompli.net
 outlookmobile.com
 msn.com
@@ -22,7 +19,7 @@ bing.com
 windows-ppe.net
 getmicrosoftkey.com
 
-# GeForce Now & Nvidia
+# --- GeForce Now & Gaming ---
 geforcenow.com
 nvidia.com
 nvidiagrid.net
@@ -67,7 +64,13 @@ peacocktv.com
 paramountplus.com
 cbsaavideo.com
 
-# YouTube (Optional - Saves bandwidth)
+# YouTube
 youtube.com
 googlevideo.com
 ytimg.com
+
+# Optional additions
+windowsupdate.com
+update.microsoft.com
+xbox.com (if you game)
+xboxlive.com (if you game)
