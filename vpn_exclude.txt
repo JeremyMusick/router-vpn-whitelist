@@ -1,4 +1,4 @@
-# --- Microsoft 365 & Identity ---
+# --- Microsoft 365 & Identity (Critical) ---
 microsoft.com
 microsoftonline.com
 office.com
@@ -10,6 +10,16 @@ cloud.microsoft
 lync.com
 skype.com
 office.net
+
+# --- Connectivity Checks (CRITICAL for Travel Routers) ---
+# These prevent "No Internet" yellow triangles in hotels
+msftconnecttest.com
+msftncsi.com
+
+# --- Windows Update (Saves VPN Bandwidth) ---
+windowsupdate.com
+update.microsoft.com
+delivery.mp.microsoft.com
 
 # --- Outlook Mobile & Infrastructure ---
 acompli.net
@@ -23,6 +33,14 @@ getmicrosoftkey.com
 geforcenow.com
 nvidia.com
 nvidiagrid.net
+xbox.com
+xboxlive.com
+
+# --- Steam (Optional - Heavy Downloads) ---
+steampowered.com
+steamcommunity.com
+steamcontent.com
+steamstatic.com
 
 # --- Streaming Services ---
 
@@ -68,9 +86,3 @@ cbsaavideo.com
 youtube.com
 googlevideo.com
 ytimg.com
-
-# Optional additions
-windowsupdate.com
-update.microsoft.com
-xbox.com (if you game)
-xboxlive.com (if you game)
