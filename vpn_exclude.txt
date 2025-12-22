@@ -86,3 +86,6 @@ cbsaavideo.com
 youtube.com
 googlevideo.com
 ytimg.com
+
+#  --- Special Exceptions --- #
+hetzner.com
